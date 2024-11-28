@@ -1,0 +1,14 @@
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\bin\Debug\net8.0\concatenarNomeSobrenome.exe
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\bin\Debug\net8.0\concatenarNomeSobrenome.deps.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\bin\Debug\net8.0\concatenarNomeSobrenome.runtimeconfig.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\bin\Debug\net8.0\concatenarNomeSobrenome.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\bin\Debug\net8.0\concatenarNomeSobrenome.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\obj\Debug\net8.0\concatenarNomeSobrenome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\obj\Debug\net8.0\concatenarNomeSobrenome.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\obj\Debug\net8.0\concatenarNomeSobrenome.AssemblyInfo.cs
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\obj\Debug\net8.0\concatenarNomeSobrenome.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\obj\Debug\net8.0\concatenarNomeSobrenome.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\obj\Debug\net8.0\refint\concatenarNomeSobrenome.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\obj\Debug\net8.0\concatenarNomeSobrenome.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\obj\Debug\net8.0\concatenarNomeSobrenome.genruntimeconfig.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\concatenarNomeSobrenome\obj\Debug\net8.0\ref\concatenarNomeSobrenome.dll

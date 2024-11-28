@@ -1,0 +1,14 @@
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\bin\Debug\net8.0\boasVindas.exe
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\bin\Debug\net8.0\boasVindas.deps.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\bin\Debug\net8.0\boasVindas.runtimeconfig.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\bin\Debug\net8.0\boasVindas.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\bin\Debug\net8.0\boasVindas.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\obj\Debug\net8.0\boasVindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\obj\Debug\net8.0\boasVindas.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\obj\Debug\net8.0\boasVindas.AssemblyInfo.cs
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\obj\Debug\net8.0\boasVindas.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\obj\Debug\net8.0\boasVindas.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\obj\Debug\net8.0\refint\boasVindas.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\obj\Debug\net8.0\boasVindas.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\obj\Debug\net8.0\boasVindas.genruntimeconfig.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\boasVindas\obj\Debug\net8.0\ref\boasVindas.dll

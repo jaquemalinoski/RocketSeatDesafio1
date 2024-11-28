@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "contadorDeCaracteres/1.0.0": {
+        "runtime": {
+          "contadorDeCaracteres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "contadorDeCaracteres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

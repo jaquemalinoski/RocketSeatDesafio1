@@ -1,0 +1,14 @@
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\bin\Debug\net8.0\datas.exe
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\bin\Debug\net8.0\datas.deps.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\bin\Debug\net8.0\datas.runtimeconfig.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\bin\Debug\net8.0\datas.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\bin\Debug\net8.0\datas.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\obj\Debug\net8.0\datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\obj\Debug\net8.0\datas.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\obj\Debug\net8.0\datas.AssemblyInfo.cs
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\obj\Debug\net8.0\datas.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\obj\Debug\net8.0\datas.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\obj\Debug\net8.0\refint\datas.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\obj\Debug\net8.0\datas.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\obj\Debug\net8.0\datas.genruntimeconfig.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\datas\obj\Debug\net8.0\ref\datas.dll

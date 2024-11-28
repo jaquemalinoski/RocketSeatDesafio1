@@ -1,0 +1,14 @@
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\bin\Debug\net8.0\placaVeiculo.exe
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\bin\Debug\net8.0\placaVeiculo.deps.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\bin\Debug\net8.0\placaVeiculo.runtimeconfig.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\bin\Debug\net8.0\placaVeiculo.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\bin\Debug\net8.0\placaVeiculo.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\obj\Debug\net8.0\placaVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\obj\Debug\net8.0\placaVeiculo.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\obj\Debug\net8.0\placaVeiculo.AssemblyInfo.cs
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\obj\Debug\net8.0\placaVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\obj\Debug\net8.0\placaVeiculo.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\obj\Debug\net8.0\refint\placaVeiculo.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\obj\Debug\net8.0\placaVeiculo.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\obj\Debug\net8.0\placaVeiculo.genruntimeconfig.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\placaVeiculo\obj\Debug\net8.0\ref\placaVeiculo.dll

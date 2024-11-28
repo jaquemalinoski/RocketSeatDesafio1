@@ -1,0 +1,14 @@
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\bin\Debug\net8.0\operaçõesMatematicas.exe
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\bin\Debug\net8.0\operaçõesMatematicas.deps.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\bin\Debug\net8.0\operaçõesMatematicas.runtimeconfig.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\bin\Debug\net8.0\operaçõesMatematicas.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\bin\Debug\net8.0\operaçõesMatematicas.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\obj\Debug\net8.0\operaçõesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\obj\Debug\net8.0\operaçõesMatematicas.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\obj\Debug\net8.0\operaçõesMatematicas.AssemblyInfo.cs
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\obj\Debug\net8.0\operaçõesMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\obj\Debug\net8.0\operaçõesMatematicas.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\obj\Debug\net8.0\refint\operaçõesMatematicas.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\obj\Debug\net8.0\operaçõesMatematicas.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\obj\Debug\net8.0\operaçõesMatematicas.genruntimeconfig.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\operaçõesMatematicas\obj\Debug\net8.0\ref\operaçõesMatematicas.dll

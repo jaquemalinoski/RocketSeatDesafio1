@@ -1,0 +1,14 @@
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\obj\Debug\net8.0\contadorDeCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\obj\Debug\net8.0\contadorDeCaracteres.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\obj\Debug\net8.0\contadorDeCaracteres.AssemblyInfo.cs
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\obj\Debug\net8.0\contadorDeCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\bin\Debug\net8.0\contadorDeCaracteres.exe
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\bin\Debug\net8.0\contadorDeCaracteres.deps.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\bin\Debug\net8.0\contadorDeCaracteres.runtimeconfig.json
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\bin\Debug\net8.0\contadorDeCaracteres.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\bin\Debug\net8.0\contadorDeCaracteres.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\obj\Debug\net8.0\contadorDeCaracteres.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\obj\Debug\net8.0\refint\contadorDeCaracteres.dll
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\obj\Debug\net8.0\contadorDeCaracteres.pdb
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\obj\Debug\net8.0\contadorDeCaracteres.genruntimeconfig.cache
+C:\Users\Jaqueline\Documents\Rocketseat\C#\Desafio1\contadorDeCaracteres\obj\Debug\net8.0\ref\contadorDeCaracteres.dll

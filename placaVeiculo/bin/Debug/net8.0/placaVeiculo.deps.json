@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "placaVeiculo/1.0.0": {
+        "runtime": {
+          "placaVeiculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "placaVeiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
